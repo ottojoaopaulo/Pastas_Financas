@@ -1,5 +1,6 @@
 from django.db import models
 
+
 class Categoria(models.Model):
     categoria = models.CharField(max_length=50)
     essencial = models.BooleanField(default=False)
