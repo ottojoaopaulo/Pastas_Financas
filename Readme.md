@@ -20,16 +20,16 @@ Programa que podemos fazer nosso controle de financas usando cadastros e banco d
   <img alt="Controle de Financas" src="gerenciar.JPG" width="50%">
 </p>
 <p align="center">
-  <img alt="Controle de Financas" src="definir_planejamento.jpg" width="50%">
+  <img alt="Controle de Financas" src="definir_planejamento.JPG" width="50%">
 </p>
 <p align="center">
-  <img alt="Controle de Financas" src="novo_valor.jpg" width="50%">
+  <img alt="Controle de Financas" src="novo_valor.JPG" width="50%">
 </p>
 <p align="center">
-  <img alt="Controle de Financas" src="ver_planejamento.jpg" width="50%">
+  <img alt="Controle de Financas" src="ver_planejamento.JPG" width="50%">
 </p>
 <p align="center">
-  <img alt="Controle de Financas" src="view_extrato.jpg" width="50%">
+  <img alt="Controle de Financas" src="view_extrato.JPG" width="50%">
 </p>
 ## 🚀 Tecnologias
 
